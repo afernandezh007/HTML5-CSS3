@@ -1,0 +1,8 @@
+#OS X Files
+.DS_Store
+
+#Windows files
+Thumbs.db
+
+#Ubuntu files
+._*
