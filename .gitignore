@@ -7,4 +7,5 @@ Thumbs.db
 #Ubuntu files
 ._*
 
+#NodeModules
 **/node_modules/
