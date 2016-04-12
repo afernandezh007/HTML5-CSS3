@@ -6,3 +6,5 @@ Thumbs.db
 
 #Ubuntu files
 ._*
+
+**/node_modules/
