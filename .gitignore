@@ -11,3 +11,9 @@ Thumbs.db
 **/node_modules/
 
 *css
+
+#Bower Components
+**/bower_components/
+
+#Dist
+**/dist/

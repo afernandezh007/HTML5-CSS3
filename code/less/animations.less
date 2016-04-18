@@ -1,0 +1,28 @@
+.boing-animation{
+	animation: boing 1.5s cubic-bezier(0,.57,1,.37);
+}
+
+
+@keyframes boing{
+	0% {
+		transform: translate(0, 200%);
+	}
+	50%{
+		transform: translate(0, -10%) scale(2);
+	}
+	60%{
+		transform: translate(0, 10%);
+	}
+	70%{
+		transform: translate(0, -10%);
+	}
+	85%{
+		transform: translate(0, 7.5%);
+	}
+	95%{
+		transform: translate(0, 5%);
+	}
+	100% {
+		transform: translate(0, 0);
+	}
+}
