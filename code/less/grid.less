@@ -13,3 +13,18 @@
 
 // genero el grid ejecutando el mixin
 .grid-generator(@grid-columns, phone);
+
+
+//Responsive
+.if_is_tablet({
+	.grid-generator(@grid-columns, tablet);
+});
+
+.if_is_desktop({
+	.grid-generator(@grid-columns, desktop);
+});
+
+
+.row{
+    .clearfix();
+}

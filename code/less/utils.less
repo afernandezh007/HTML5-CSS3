@@ -14,3 +14,15 @@
 .circle {
 	border-radius: 50%;
 }
+
+.if_is_tablet(@rules){
+	@media screen and (min-width: @tablet-width){
+		@rules();
+	}
+}
+
+.if_is_desktop(@rules){
+	@media screen and (min-width: @desktop-width){
+		@rules();
+	}
+}

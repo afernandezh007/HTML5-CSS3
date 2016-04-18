@@ -1,0 +1,20 @@
+{
+  "name": "the-a-team",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Antonio Fernández <antonio.fernandez.hernandez@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/afernandezh007/HTML5-CSS3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.1"
+  }
+}
