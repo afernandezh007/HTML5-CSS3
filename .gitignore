@@ -17,3 +17,6 @@ Thumbs.db
 
 #Dist
 **/dist/
+
+#SparRest BD
+**db/
